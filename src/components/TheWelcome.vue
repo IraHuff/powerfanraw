@@ -17,8 +17,7 @@ let s = stylex.create({})
         </template>
         <template #heading>History</template>
 
-        US Navy for 20 years. Joined a codeing bootcamp CodeUp, now helping small town buisnesses
-        and clubs build a web presence.
+        US Navy for 20 years. Now retired and waisting time writeing a power fanatasy.
     </WelcomeItem>
 
     <WelcomeItem>
@@ -39,7 +38,7 @@ let s = stylex.create({})
         </template>
         <template #heading>People I Have Helped</template>
 
-        <a href="https://N0PR.github.io" target="_blank">NOPR Macon County Amature Radio Club</a>
+        <a href="https://N0PR.org" target="_blank">NOPR Macon County Amature Radio Club</a>
     </WelcomeItem>
 
     <WelcomeItem>

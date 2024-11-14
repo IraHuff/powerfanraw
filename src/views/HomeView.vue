@@ -24,6 +24,6 @@ const s = stylex.create({
 
 <template>
     <main :class="stylex(s.flex, s.media)">
-        <p :class="stylex(s.text)">I help small town businesses build a web presence</p>
+        <p :class="stylex(s.text)">I am writeing a litRPG power fantasy that I will be posting and updateing here</p>
     </main>
 </template>

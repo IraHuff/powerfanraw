@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import 
- from '@stylexjs/stylex'
+import stylex from '@stylexjs/stylex'
 </script>
 <script lang="ts"></script>
 
