@@ -4,10 +4,10 @@ import BookIcon from './icons/IconBook.vue'
 import IconHardDrive from './icons/IconHardDrive.vue'
 import ProjectIcon from './icons/IconProject.vue'
 import IconConnect from './icons/IconConnect.vue'
-import stylex from '@stylexjs/stylex'
+// import stylex from '@stylexjs/stylex'
 </script>
 <script lang="ts">
-let s = stylex.create({})
+// let s = stylex.create({})
 </script>
 
 <template>
